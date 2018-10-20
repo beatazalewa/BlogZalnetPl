@@ -1,0 +1,6 @@
+E:\Inne\_ProjektyVisualStudio\DoMath\DoMath\bin\Debug\DoMath.exe.config
+E:\Inne\_ProjektyVisualStudio\DoMath\DoMath\bin\Debug\DoMath.exe
+E:\Inne\_ProjektyVisualStudio\DoMath\DoMath\bin\Debug\DoMath.pdb
+E:\Inne\_ProjektyVisualStudio\DoMath\DoMath\obj\Debug\DoMath.csprojResolveAssemblyReference.cache
+E:\Inne\_ProjektyVisualStudio\DoMath\DoMath\obj\Debug\DoMath.exe
+E:\Inne\_ProjektyVisualStudio\DoMath\DoMath\obj\Debug\DoMath.pdb
